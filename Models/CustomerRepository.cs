@@ -60,7 +60,7 @@ namespace CoreWebAPI.Models
             {
                 if (item.Cus_ID == id)
                 {
-                    item.Cus_Name = "ramana Load ettalira";
+                    item.Cus_Name = "Load ettalira";
                     return item;
                 }
             }
